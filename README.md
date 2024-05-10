@@ -1,1 +1,2 @@
-# tinosgames1
+# Gamehub
+This website is for... educational purposes...
